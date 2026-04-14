@@ -294,7 +294,8 @@ export function createPreviewHTML(
   entryPoint: string,
   importMap: string,
   styles: string = "",
-  errors: Array<{ path: string; error: string }> = []
+  errors: Array<{ path: string; error: string }> = [],
+  isDarkMode: boolean = false
 ): string {
   // Parse the import map to get the blob URL for the entry point
   let entryPointUrl = entryPoint;
@@ -308,12 +309,15 @@ export function createPreviewHTML(
   }
 
   return `<!DOCTYPE html>
-<html lang="en">
+<html lang="en"${isDarkMode ? ' class="dark"' : ''}>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Preview</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = { darkMode: 'class' }
+  </script>
   <style>
     body {
       margin: 0;
