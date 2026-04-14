@@ -1,0 +1,73 @@
+   ▲ Next.js 15.5.15 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.4.72:3000
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Compiled middleware in 85ms
+ ✓ Ready in 701ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.1s
+ GET / 200 in 3486ms
+ ✓ Compiled /favicon.ico in 147ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 402ms
+ ✓ Compiled /api/chat in 170ms
+No ANTHROPIC_API_KEY found, using mock provider
+ POST /api/chat 200 in 12936ms
+   Reload env: .env
+ GET / 200 in 59ms
+ ✓ Compiled in 33ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 280ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 250ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 273ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 250ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 261ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 239ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 241ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 257ms
+ GET / 200 in 256ms
+ GET / 200 in 49ms
+ POST /api/chat 200 in 9273ms
+ ✓ Compiled in 69ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 248ms
+ GET / 200 in 73ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 240ms
+ GET / 200 in 64ms
+ POST /api/chat 200 in 14004ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 223ms
+ ✓ Compiled in 61ms
+ POST /api/chat 200 in 20653ms
+ GET / 200 in 77ms
+ POST /api/chat 200 in 17441ms
+ ✓ Compiled in 83ms
+ GET / 200 in 64ms
+ POST /api/chat 200 in 15670ms
+ POST /api/chat 200 in 27774ms
+ GET / 200 in 50ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 225ms
+ POST /api/chat 200 in 38276ms
+ POST /api/chat 200 in 2737ms
+ GET / 200 in 61ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 227ms
+ POST /api/chat 200 in 14593ms
+ GET / 200 in 62ms
+ POST /api/chat 200 in 17679ms
+ GET / 200 in 77ms
+ POST /api/chat 200 in 13128ms
+ GET / 200 in 67ms
+ POST /api/chat 200 in 37060ms
+ ✓ Compiled in 82ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 268ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 241ms
+ GET / 200 in 100ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 274ms
+ POST /api/chat 200 in 67550ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 250ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 255ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 279ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 259ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 242ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 254ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 257ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 260ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 249ms
