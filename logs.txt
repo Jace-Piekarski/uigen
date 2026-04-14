@@ -71,3 +71,32 @@ No ANTHROPIC_API_KEY found, using mock provider
  GET /favicon.ico?favicon.0b3bf435.ico 200 in 257ms
  GET /favicon.ico?favicon.0b3bf435.ico 200 in 260ms
  GET /favicon.ico?favicon.0b3bf435.ico 200 in 249ms
+ GET / 200 in 121ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 233ms
+ GET / 200 in 87ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 239ms
+ GET / 200 in 73ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 219ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 253ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 247ms
+ GET / 200 in 86ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 238ms
+ GET / 200 in 81ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 222ms
+ GET / 200 in 81ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 246ms
+ GET / 200 in 75ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 222ms
+ GET / 200 in 80ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 244ms
+ GET / 200 in 75ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 219ms
+ GET / 200 in 78ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 221ms
+ GET / 200 in 114ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 220ms
+ ✓ Compiled in 152ms
+ GET / 200 in 378ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 224ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 262ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 267ms
